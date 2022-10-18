@@ -9,3 +9,5 @@ Three key differences in weather between June and December:
 - The minimum temperature values show the greatest difference. 
 - There’s more data for June vs. December. 
 
+![TBrickey](https://github.com/TBrickey/surfs_up/blob/main/June%20Temps.png)
+![TBrickey](https://github.com/TBrickey/surfs_up/blob/main/Dec%20Temps.png)
