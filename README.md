@@ -13,4 +13,4 @@ Three key differences in weather between June and December:
 ![TBrickey](https://github.com/TBrickey/surfs_up/blob/main/Dec%20Temps.png)
 
 ## Summary
-June and December temperatures on average are within 4 degrees showing that temperatures are consistent throughout the year. Oahu would make a fantastic sight to setup a year-round Ice Cream shop. This review should be repeated for all the months with the year. We could also include historical data from the last 5 years. It may also be a good idea to google any extreme weather events such as flooding & typhoons and talk to locals to get more insight into Oahu. 
+June and December temperatures on average are within 4 degrees showing that temperatures are consistent throughout the year. Oahu would make a fantastic sight to setup a year-round Surf & Ice Cream shop. This review should be repeated for all the months with the year. We could also include historical data from the last 5 years. It may also be a good idea to google any extreme weather events such as flooding & typhoons and talk to locals to get more insight into Oahu. 
